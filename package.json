@@ -7,11 +7,16 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "eslint": "^7.32.0",
     "vue": "^3.2.6"
   },
   "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
     "@vitejs/plugin-vue": "^1.6.0",
     "@vue/compiler-sfc": "^3.2.6",
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.9",
     "vite": "^2.5.2"
   }
 }
